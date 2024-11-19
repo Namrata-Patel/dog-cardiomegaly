@@ -17,7 +17,7 @@ The proposed neural network, featuring innovative architectural enhancements, ac
 
 Below is the architecture diagram of the proposed model:
 
-![Architecture Diagram](Dog_Heart_Architecture.drawio (1).png)
+![Architecture Diagram](assets/Dog_Heart_Architecture.drawio (1).png)
 
 #### Performance Metrics
 The custom model outperformed the VGG16 baseline, achieving a **76% accuracy** on the test set.
