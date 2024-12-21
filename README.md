@@ -1,6 +1,6 @@
 # Dog-Cardiomegaly
 
-Best Weights for this model are available at: [Google Drive Link](https://drive.google.com/file/d/1n6C0K-0h2NK95PqOSvoEKcXyE1-w2L-m/view?usp=sharing)
+Best Weights for this model are available at: [Google Drive Link] https://drive.google.com/file/d/1n6C0K-0h2NK95PqOSvoEKcXyE1-w2L-m/view?usp=sharing
 
 ## Architecture
 The recent study presented in the RVT paper [source](https://www.nature.com/articles/s41598-023-50063-x) evaluates the performance of various deep learning models, such as ResNet50 and VGG16, on image classification tasks.
